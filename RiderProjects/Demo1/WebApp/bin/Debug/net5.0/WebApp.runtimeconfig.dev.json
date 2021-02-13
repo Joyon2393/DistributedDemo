@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/joyon/.dotnet/store/|arch|/|tfm|",
+      "/home/joyon/.nuget/packages"
+    ]
+  }
+}

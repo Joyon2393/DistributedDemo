@@ -1,0 +1,12 @@
+/home/joyon/RiderProjects/Demo1/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/joyon/RiderProjects/Demo1/Domain/bin/Debug/net5.0/Domain.dll
+/home/joyon/RiderProjects/Demo1/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/joyon/RiderProjects/Demo1/Domain/bin/Debug/net5.0/Domain.pdb
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/Domain.dll
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/joyon/RiderProjects/Demo1/Domain/obj/Debug/net5.0/Domain.pdb
